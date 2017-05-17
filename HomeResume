@@ -1,0 +1,20 @@
+< !DOCTYPE html>
+<html>
+  <head>
+  <title> Roniel Flores Creations </title>
+  </head>
+  <body>
+    <img src="https://placeimg.com/200/200/tech" alt="Tresure Porth, Web Developer">
+    <h1>Treasure Porth Web Developer</h1>
+    <h2>Summary of Qualifications</h2>
+      <ul>
+        <li>Experiance as a freelance web peveloper</li>
+        <li>Experiance with HTML, CSS, and JavaScript</li>
+        <li>Experianced Medical Assistant</li>
+      </ul>
+  </body>
+
+
+
+
+</html>
